@@ -12,8 +12,8 @@ I was the **Policy, Risk & Compliance Lead** on a [number]-person team. This rep
 | Area | Owner |
 |---|---|
 | Policy registry, risk scoring, control mapping, AI governance, incident response procedures | **Me** |
-| Scanner integration | [Teammate name] |
-| Pipeline configuration | [Teammate name] |
+| Scanner integration | Yilu Yang |
+| Pipeline configuration |Rutwik Taritkere |
 
 ## What's in the registry
 
@@ -23,7 +23,7 @@ I was the **Policy, Risk & Compliance Lead** on a [number]-person team. This rep
 - **Risk scoring model:** how findings are rated and which severities block a deployment
 - **Control mapping:** findings mapped to NIST SP 800-53 [and CIS Controls, if applicable]
 - **AI governance:** rules for the Amazon Bedrock advisory layer that summarizes scan results, so AI-generated triage stays reviewable by a human
-- **Incident response procedures:** [one line on what these cover]
+- **Incident response procedures:** - documented steps for responding to pipeline security findings, including severity-based escalation and remediation tracking
 
 ## About the pipeline
 
@@ -31,7 +31,7 @@ The team's pipeline integrated SAST (Semgrep), secrets detection (Gitleaks), and
 
 ## Context
 
-Team capstone, M.S. Cybersecurity, Worcester Polytechnic Institute, [semester/year].
+Team capstone, M.S. Cybersecurity, Worcester Polytechnic Institute, [Spring 2026 ].
 
 ## Contact
 
